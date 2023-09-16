@@ -1,4 +1,4 @@
-.nodemodules
+node_modules/
 .gitpod.yml
 .cypress.json
 .package.json
