@@ -21,7 +21,7 @@ List of Languages that were used to built this project .
 <br>
 
 <div align='center'>
-<img src='./examples/github_profile_finder_1.png.png'/>
+<img src='./examples/github_profile_finder_1.png'/>
 <img src='./examples/github_profile_finder_2.png'/>
 
 <h2>Contact</h2>
