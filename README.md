@@ -4,10 +4,9 @@
 
 <h2>About the project</h2>
 
-  <p>XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.</p>
+  <p>Finding the GitHub Profile details Ex: Name, Followers, Following etc.</p>
 
 
-![](https://github.com/Krishna11118/GitHub-Profile-Finder/blob/main/examples/github_profile_finder.gif)
 
 👉 Live Demo: <a href='https://krishna-github-profile-finder.netlify.app/'>Live Demo</a>
 
