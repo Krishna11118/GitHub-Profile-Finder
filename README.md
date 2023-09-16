@@ -1,4 +1,3 @@
-<div align='center'><img height="100px" width="100px" src='./examples/XBoard_icon.png'/></div>
 
 
 
