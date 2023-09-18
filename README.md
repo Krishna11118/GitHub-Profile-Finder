@@ -6,7 +6,7 @@
 
 <h2>About the project</h2>
 
-  <p>Finding the GitHub Profile details Ex: Name, Followers, Following etc.</p>
+  <p>Finding the GitHub Profile details Ex: Name, Followers, Following, etc.</p>
 
   ![](https://github.com/Krishna11118/GitHub-Profile-Finder/blob/main/examples/github_profile_finder.gif)
 
