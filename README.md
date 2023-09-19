@@ -1,6 +1,5 @@
 
 
- <img src='./examples/githu'/>
 
 
 
